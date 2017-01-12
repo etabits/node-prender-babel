@@ -1,5 +1,5 @@
 {
-  "name": "node-prender-babel",
+  "name": "prender-babel",
   "version": "0.1.0",
   "description": "Babel JavaScript compiler integration for prender",
   "main": "index.js",
